@@ -1,0 +1,9 @@
+D:\Programs\source\repos\SearchDiscriminant\SearchDiscriminant\bin\Debug\SearchDiscriminant.exe.config
+D:\Programs\source\repos\SearchDiscriminant\SearchDiscriminant\bin\Debug\SearchDiscriminant.exe
+D:\Programs\source\repos\SearchDiscriminant\SearchDiscriminant\bin\Debug\SearchDiscriminant.pdb
+D:\Programs\source\repos\SearchDiscriminant\SearchDiscriminant\obj\Debug\SearchDiscriminant.csproj.AssemblyReference.cache
+D:\Programs\source\repos\SearchDiscriminant\SearchDiscriminant\obj\Debug\SearchDiscriminant.csproj.CoreCompileInputs.cache
+D:\Programs\source\repos\SearchDiscriminant\SearchDiscriminant\obj\Debug\SearchDiscriminant.exe
+D:\Programs\source\repos\SearchDiscriminant\SearchDiscriminant\obj\Debug\SearchDiscriminant.pdb
+D:\Programs\source\repos\SearchDiscriminant\SearchDiscriminant\bin\Debug\Descriminant.dll
+D:\Programs\source\repos\SearchDiscriminant\SearchDiscriminant\bin\Debug\Descriminant.pdb

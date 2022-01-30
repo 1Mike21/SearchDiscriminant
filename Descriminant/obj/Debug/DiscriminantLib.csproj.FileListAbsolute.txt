@@ -1,0 +1,5 @@
+D:\Programs\source\repos\SearchDiscriminant\Descriminant\bin\Debug\Descriminant.dll
+D:\Programs\source\repos\SearchDiscriminant\Descriminant\bin\Debug\Descriminant.pdb
+D:\Programs\source\repos\SearchDiscriminant\Descriminant\obj\Debug\DiscriminantLib.csproj.CoreCompileInputs.cache
+D:\Programs\source\repos\SearchDiscriminant\Descriminant\obj\Debug\Descriminant.dll
+D:\Programs\source\repos\SearchDiscriminant\Descriminant\obj\Debug\Descriminant.pdb
